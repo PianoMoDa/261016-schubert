@@ -1,0 +1,35 @@
+/* PianoMoDa · 공통 색상 규칙 · 2026.10.07
+   포스터 대표색: 선명한 외곽 / 같은 색의 낮은 채도·높은 명도: 설명 패널.
+   포스터 이미지 자체는 원본 보존. 이 파일이 색상 규칙의 최종 기준.
+*/
+:root{--pm-bg:#071C37;--pm-dark:#0C2C50;--pm-button:#16416B;--pm-hover:#235784;--pm-accent:#D9C68D;--pm-heading:#355C79;--pm-surface:#F1F3F4;--pm-about:#E7ECEF;--pm-context:#DDE4E8;--pm-paper:#FAFBFC;--pm-ink:#28333F;--pm-muted:#596571;--pm-border:#C7D1D9;--bg:var(--pm-bg);--paper:var(--pm-surface);--ink:var(--pm-ink);--muted:var(--pm-muted);--gold:var(--pm-accent)}
+body{background:var(--pm-bg);color:#F3F4F5;font-family:Pretendard,-apple-system,BlinkMacSystemFont,"Noto Sans KR",sans-serif}
+.intro,.artist,.encore,.reading,.postlude-head{background:var(--pm-dark);border-color:var(--pm-button)}
+nav{background:var(--pm-bg)}
+nav a{background:var(--pm-button);border-color:var(--pm-hover)}
+nav a:hover{background:var(--pm-hover);border-color:var(--pm-accent)}
+.micro,.profile-link,.archive-link,.postlude-head .kicker{color:var(--pm-accent)}
+.nav-sub,.credit,.artist .facts,.artist .bio,.intro-copy,.timeline span,.reference-note,.event,.event p,.artist-brief{color:#DCE3EA}
+.work,.postlude-card{background:var(--pm-surface);color:var(--pm-ink);border-color:var(--pm-border)}
+.work .micro,.work .listen,.work .composer,.work .card h3,.piece-context b,.keywords,.postlude-tag,.movement-pick{color:var(--pm-heading)}
+.work .meta,.work .original-title,.work .formline,.work .form,.work .vl,.work .media-meta,.work .score-caption,.work .soloist-profile .fact{color:var(--pm-muted)}
+.work h2,.piece-info h3,.postlude-title{font-family:Georgia,"Noto Serif KR",serif}
+.work .card.about{background:var(--pm-about);color:var(--pm-ink)}
+.work .card.context,.work .card.sig{background:var(--pm-context);color:var(--pm-ink)}
+.work .card p,.work .piece-note,.work .piece-context,.post-note{color:var(--pm-ink)}
+.movement,.movement-impressions>div{background:var(--pm-paper);color:var(--pm-ink);border-color:var(--pm-border)}
+.movement b,.movement span,.movement-impressions b,.movement-detail{color:var(--pm-ink)}
+.piece{background:var(--pm-paper);border-color:var(--pm-border)}
+.piece-note{border-color:var(--pm-border)}
+.pick-box,.profile.extra{background:var(--pm-about);color:var(--pm-ink);border-color:var(--pm-heading)}
+.pick-box>div,.section-label,.no-encore,.photo-caption{color:var(--pm-muted)}
+.work .video-link,.work .score-link,.work .video-fallback a{color:var(--pm-heading)}
+.venue-history,.venue-description,.venue-summary{color:var(--pm-ink)}
+.venue-history dt,.venue-history .venue-date{color:var(--pm-heading)}
+.postlude-notes article,.postlude-notes article.wide{background:var(--pm-about);color:var(--pm-ink);border-color:var(--pm-heading)}
+.postlude-notes h3,.postlude-notes p{color:var(--pm-ink)}
+.postlude-gallery figure,.postlude-photo{background:var(--pm-dark);border-color:var(--pm-button)}
+.postlude-gallery figcaption,.postlude-photo figcaption{color:#E6EBF1}
+.score-dialog{background:var(--pm-bg)}.score-toolbar,.score-nav{background:var(--pm-dark);border-color:var(--pm-button)}
+.score-action{background:var(--pm-button);border-color:var(--pm-hover);color:#F3F4F5;font-family:Pretendard,sans-serif}
+.score-action:focus-visible,a:focus-visible,button:focus-visible{outline:3px solid var(--pm-accent);outline-offset:3px}

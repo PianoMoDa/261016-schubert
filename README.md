@@ -1,5 +1,11 @@
 # PianoMoDa · Concert Prelude
 
+## 2026.10.14 연주자 영상 추가
+
+연주자 소개 아래에 1분클래식 「피아니스트는 악보를 보며 무슨 생각을 할까? :: 피아니스트 박종해」 삽입. 16:9 반응형 플레이어와 YouTube 바로가기 제공.
+
+https://www.youtube.com/watch?v=X5oTOBecUCU
+
 2026-10-03 · 박종해 페이지를 기준으로 통일한 공연 페이지 구성
 
 ## 공통 구성
@@ -69,3 +75,30 @@ D.946과 D.935의 썸네일은 사용자가 제공한 자필악보 JPG를 그대
 - https://developers.cloudflare.com/pages/get-started/git-integration/
 - https://developers.cloudflare.com/pages/framework-guides/deploy-anything/
 - https://developers.cloudflare.com/workers/configuration/routing/workers-dev/
+
+## 작품 정보 공통 업데이트 · 2026.10.06
+
+- 작품명 아래에 예상 시간과 작곡·개작·출판 연도, 해당 시점의 작곡가 만 나이를 표시.
+- 시간은 실제 공연 실측치가 아닌 참고 범위. 전체 공연 합계는 생략.
+- 확인되지 않은 작곡 연도·편곡 판본·시간은 미확인으로 표시.
+- 웹 본문은 한다체·니다체 없이 읽히는 요약체. 후기 사진은 1:1, 원본 보존.
+- ZIP은 모든 파일이 최상위에 있는 구조.
+- 본문 Pretendard Variable 파일과 SIL OFL 라이선스 포함, 제목·작품명 Georgia.
+- 모바일·태블릿 악보 미리보기: 내장 PDF iframe을 PDF.js 캔버스 뷰어로 교체, 이전·다음·확대·축소 제공.
+
+## PianoMoDa 공통 색상 규칙 · 2026.10.07
+
+포스터 대표색을 선명하게 만든 외곽 배경·버튼 + 같은 계열의 옅은 설명 영역. ABOUT/CONTEXT는 동일한 색상 계열에서 명도 차이로 구분. 긴 본문은 짙은 차콜. 공통 규칙은 최종으로 로드되는 `pianomoda-theme.css`에 지정.
+
+## 2026.10.14 공통 재정비
+
+- 작품별 대략 시간(약 ○분)·작곡/개작 시기·만 나이·개인적 상황·출판/역사적 의미 보완.
+- 현 소속과 과거 경력, 확인된 레퍼토리 및 공식 프로필 링크 구분.
+- 제목 Georgia·본문 Pretendard, 기존 승인 색상 유지.
+- ZIP 내부 하위 폴더 없음. index.html을 포함한 파일 전체를 저장소 루트에 교체.
+
+## 2026.10.16 공연 후 업데이트
+
+Concert Postlude로 전환. 동행 YJ Seo, 앵콜 3곡, 후기 4항목, 선정한 커튼콜 사진 및 영상 반영. 팸플릿 p.6–7의 곡 해설, p.9 프로필, pp.12–16 신예슬 인터뷰에서 내용 발췌·재서술. 10년 프로젝트는 2025년 시작한 계획으로 정정. 친필 인사말은 AI 재생성본을 채택하지 않고, 원본 사진을 SVG 뷰포트로 잘라 글씨와 서명을 그대로 표시. 흰 배경 유지. 영상 약 2.5 MB. 공개용 티켓 사진은 미포함. 모든 파일 ZIP 루트에 배치. 공개 사이트 반영에는 업로드 필요.
+
+악보 모자 사진: 사용자가 선택한 image-edit-target-e788178c1b3e0a80.png를 imagegen으로 인쇄 질감·배경 광량 보정. 인사말: 재생성된 필체는 채택하지 않음. 원본을 표시하는 SVG를 PNG로 렌더링하여 글씨·서명 발췌본 제공.
