@@ -1,0 +1,30 @@
+PianoMoDa · Schubert D.946 edition notes · 2026-10-19
+
+Work: Drei Klavierstücke, D.946 / 《세 개의 피아노 소품》
+1. Allegro assai; 2. Allegretto; 3. Allegro.
+
+Performance: 2026-10-16, JongHai Park, Seoul Arts Center IBK Chamber Hall.
+The concert attendee confirmed that No.1 followed Schubert's autograph deletion,
+matching the A-B-A construction in the score already hosted on this site.
+This is a performance record; the site PDF is a printed reference score.
+
+G. Henle Verlag, HN 66, Preface (Summer 1976 / spring 1996):
+https://www.henle.de/media/de/9d/88/1690886063/0066-1690886063-sync.pdf
+The preface discusses following the first edition for corrections and identifies
+the deleted passage specifically in the first piece. Its bar numbering is 274-326.
+
+Henle's discussion of No.1, 2013-07-22:
+https://blog.henle.de/en/2013/07/22/schubert-deletes-brahms-restores-on-the-first-of-the-three-posthumous-piano-pieces-impromptus-d-946-by-franz-schubert/
+The autograph deletes the second contrasting episode. The 1868 posthumous first
+edition includes it. The longer layout is A-B-A-C-A; the deletion-based layout is
+A-B-A. The passage is Schubert's composition, not newly composed music by Brahms.
+Use 'the posthumous first edition reinstated it' rather than assigning sole
+responsibility for that publication decision to Brahms.
+
+Henle complete-edition contents:
+https://www.henle.de/us/3-Piano-Pieces-Impromptus-op.-post.-D-946/HN-66
+All three pieces are listed. The comparison upload contained only No.1.
+That private modern-edition PDF has not been included in this public package.
+
+Previously used background:
+https://www.hyperion-records.co.uk/dc.asp?dc=D_CDA68107

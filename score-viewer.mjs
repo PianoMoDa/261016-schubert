@@ -82,7 +82,7 @@ async function renderPage() {
   }
 }
 
-async function openScorePreview(path, scoreTitle, opener) {
+async function openScorePreview(path, scoreTitle, opener, initialPage = 1) {
   if (!path || typeof dialog.showModal !== 'function') return;
     const turn = ++sequence;
     trigger = opener;
@@ -104,6 +104,7 @@ async function openScorePreview(path, scoreTitle, opener) {
         return;
       }
       documentPdf = loaded;
+      pageNumber = Math.max(1, Math.min(loaded.numPages, Math.trunc(Number(initialPage)) || 1));
       await renderPage();
     } catch (_) {
       if (turn === sequence && dialog.open) {
@@ -119,7 +120,7 @@ document.querySelectorAll('a.score-preview:not(.external-score)').forEach(link =
     const path = link.getAttribute('href');
     if (!path || !/\.pdf(?:[?#]|$)/i.test(path)) return;
     event.preventDefault();
-    openScorePreview(path, link.dataset.scoreTitle || 'Score Preview', link);
+    openScorePreview(path, link.dataset.scoreTitle || 'Score Preview', link, link.dataset.scorePage);
   });
 });
 document.addEventListener('pianomoda:open-score', event => {

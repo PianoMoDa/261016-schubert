@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "brand": "PianoMoDa",
+  "visibility": "public",
+  "id": "261016-schubert",
+  "date": "2026-10-16",
+  "time": "19:30",
+  "timezone": "Asia/Seoul",
+  "title": "박종해 · Schubert Abend",
+  "subtitle": "슈베르트의 밤",
+  "artists": [
+    "JongHai Park 박종해"
+  ],
+  "composers": [
+    "Schubert 슈베르트"
+  ],
+  "venue": "예술의전당 IBK기업은행챔버홀",
+  "city": "서울",
+  "stage": "postlude",
+  "attendance": "attended",
+  "poster": "poster.png",
+  "accent": "#454568",
+  "description": "D.178·D.946·D.935. 피아노 스승님 YJ Seo와 함께한 슈베르트의 밤. 앵콜 원곡과 고도프스키 편곡 악보를 함께 비교하는 기록.",
+  "updatedAt": "2026-10-18T16:00:50+00:00"
+}

@@ -1,0 +1,76 @@
+PianoMoDa · 2026-10-16 JongHai Park Schubert Abend · Encore scores
+Added 2026-10-18
+
+Franz Schubert: Moment musical No.3 in F minor, D.780/3, Op.94/3
+1. Original piano work
+Classic and Romantic Series No.26. St. Louis: Art Publication Society, 1913.
+IMSLP #699556, 4 pages. Listed as Public Domain by IMSLP.
+https://imslp.org/wiki/Moments_musicaux,_D.780_(Schubert,_Franz)
+https://ks15.imslp.org/files/imglnks/usimg/c/c0/IMSLP699556-PMLP2066-SheetMusic_26826.pdf
+Unchanged PDF, including cover and supplementary page. Preview begins on PDF page 2.
+
+2. Leopold Godowsky's concert arrangement for piano solo
+New York: Carl Fischer, 1922. First edition, plate CC 22654.
+IMSLP #08489, 5 pages. Listed as Public Domain by IMSLP.
+https://imslp.org/wiki/Moments_musicaux,_D.780_(Schubert,_Franz)#For_Piano_.28Godowsky.29_2
+https://s9.imslp.org/files/imglnks/usimg/4/46/IMSLP08489-Godowsky_-_Trans_-_Moment_Musicaux_(Schubert).pdf
+Unchanged PDF. JPEG preview rendered from first music page.
+
+These are reference editions of the two works on the venue's encore notice.
+The specific printed editions used by the pianist have not been identified.
+No third-encore score was reconstructed or attributed to the pianist.
+
+2026.10.19 — Related work: Rachmaninoff, Moments musicaux Op.16
+File: rachmaninoff-op16.pdf (41 pages, complete six-piece collection)
+IMSLP #03737. Moscow: P. Jurgenson, n.d.[1897], plate 20796; first edition.
+No.2 is the original version, before the 1940 revision. The supplied PDF is unchanged.
+SHA-256: 5d25e5691765ad32365bbef7ffdb7485c930bab0a1786f46bbf77dc5e9170485
+https://imslp.org/wiki/Moments_musicaux,_Op.16_(Rachmaninoff,_Sergei)
+https://s9.imslp.org/files/imglnks/usimg/e/ea/IMSLP03737-Rachmaninov-Op16origed.pdf
+IMSLP marks this edition Public Domain. No modern Henle edition is included.
+rachmaninoff-op16.jpg is a preview rendered from the first music page (PDF page 1).
+
+Title and work-count context:
+Schubert D.780 / Op.94 contains six pieces; D.935 / Op.142 contains four Impromptus.
+The title Moments musicaux was supplied by Schubert's publisher.
+No.3 first appeared in 1823 as Air russe; the collected set appeared in 1828.
+Rachmaninoff Op.16 (1896) also contains six original piano pieces.
+A matching title and six-piece format do not establish a number-by-number correspondence
+or a composer-declared homage. Do not label the Rachmaninoff score as a Park encore.
+https://media.wigmore-hall.org.uk/documents/Programme_25_September_2023_100pm.pdf
+https://www.hyperion-records.co.uk/dw.asp?dc=W12141_67091
+https://www.henle.de/en/Six-Moments-musicaux-op.-16/HN-1492
+
+Related listening, Nikolai Lugansky (IMSLP-linked video):
+https://www.youtube.com/watch?v=RI-m3Z3YhgY
+The linked recording is reference listening, not footage of the Park concert.
+Actual YouTube playback has not been verified in this environment.
+
+2026.10.19 — YouTube-only related listening, user-selected works
+Avner Dorman: Moments Musicaux, I. Adagio / II. Presto.
+Links supplied by the composer's official work page:
+https://www.avnerdormanmusic.com/works/moments-musicaux/
+https://www.youtube.com/watch?v=MDeHVbp8Sd4
+https://www.youtube.com/watch?v=DRPqqRd67b8
+The official source uses music.youtube.com with these same video identifiers.
+
+Illarion Kozlov: Moment musical à la F. Schubert, Op.9.
+Phillip Sear performance, linked by the IMSLP work page:
+https://imslp.org/wiki/Moment_musical_%C3%A0_la_F._Schubert,_Op.9_(Kozlov,_Illarion)
+https://www.youtube.com/watch?v=Vzmuzw2kxLc
+
+These works are external reference listening. No score, audio, or video files are included.
+Their descriptions and score cards have not been added, following the user's latest request.
+YouTube playback has not been verified in this environment.
+Rachmaninoff Op.16 remains a complete local score with PDF.js preview.
+The user clarified having read through the scores of all six Rachmaninoff pieces,
+and having practiced No.3, Andante cantabile, and No.4, Presto. Preserve that distinction in the personal note.
+
+2026.10.19 — Title legacy context
+Added the historical connection between Leidesdorf's 1828 publication title
+and later piano works by Rachmaninoff, Kozlov and Dorman.
+The shared title does not establish a shared melody or identical homage intent.
+References: Wigmore Hall programme, Dorman official work note, and Kozlov score title.
+https://media.wigmore-hall.org.uk/documents/Programme_25_September_2023_100pm.pdf
+https://www.avnerdormanmusic.com/works/moments-musicaux/
+https://hdl.handle.net/1802/23173
